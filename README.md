@@ -1,4 +1,3 @@
-![HeadBanner]()
 <h1 align="center">Hi 👋, I'm Yehan Munasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
