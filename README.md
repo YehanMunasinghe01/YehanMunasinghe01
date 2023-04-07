@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehan Munasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3><br/>
+<h3 align="center">A passionate frontend developer from Sri Lanka☺️💖</h3><br/>
 <img alt="Coder GIF" height=350 width=1050 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 # 🧑🏻‍💻 About Me:
